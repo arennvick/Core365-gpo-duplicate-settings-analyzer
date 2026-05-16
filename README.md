@@ -8,7 +8,8 @@
 
 > **Scan every GPO in your Active Directory domain, detect duplicate and conflicting settings, and generate an interactive HTML dashboard — all in a single PowerShell script.**
 
-![GPO Duplicate Settings Analyzer Dashboard](screenshots/dashboard.png)
+<img width="1538" height="942" alt="image" src="https://github.com/user-attachments/assets/c4d7017b-1227-4dfb-bd66-6787864833d4" />
+
 
 ---
 
